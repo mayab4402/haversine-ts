@@ -1,6 +1,6 @@
 {
   "name": "haversine-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compute Earth great-circle distances in kilometres with no dependencies.",
   "type": "module",
   "main": "src/index.js",
